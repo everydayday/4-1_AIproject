@@ -1,7 +1,5 @@
 # 4-1_AIproject
-This repositiory is for 4-1 AIproject. <br>
-You can wear the glasses according to a face shape.<br> 
-This project is made by using Mediapipe.<br>
+얼굴형에 따른 안경 추천 및 <br> 안경 합성 이미지 제공 프로젝트
 
 
 ![인공지능및빅데이터_최종발표gif5](https://github.com/everydayday/4-1_AIproject/assets/96685431/9a22cc59-c0d1-45a5-9178-98f445237b2a)
